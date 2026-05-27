@@ -1,19 +1,19 @@
-Nutrition Plan App
+markdown# Nutrition Plan App
 
 A desktop application built in Java that generates personalized daily meal plans based on the user's physical profile and fitness goals.
 
- Features
+## Features
 - Calculates BMI, BMR and TDEE using the Harris-Benedict formula
 - Generates a daily meal plan: breakfast, lunch, dinner + 2 snacks
 - Supports 3 goals: weight loss, maintenance, muscle gain
 - Admin panel to add or remove foods from the database
 - Simple GUI built with Java Swing
 
- How to Run
+## How to Run
 1. Open the project in NetBeans
 2. Run `FereastraNutritie.java`
 
- Classes
+## Classes
 | Class | Description |
 |-------|-------------|
 | `Utilizator` | Base user with email and password |
@@ -25,7 +25,7 @@ A desktop application built in Java that generates personalized daily meal plans
 | `CalculatorNutritie` | BMI, BMR and TDEE calculations |
 | `FereastraNutritie` | Main GUI window |
 
- Tech
+## Tech
 - Java 17+
 - Java Swing
 - OOP (inheritance, composition, encapsulation)
