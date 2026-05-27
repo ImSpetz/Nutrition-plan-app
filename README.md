@@ -1,4 +1,4 @@
-markdown# Nutrition Plan App
+Nutrition Plan App
 
 A desktop application built in Java that generates personalized daily meal plans based on the user's physical profile and fitness goals.
 
